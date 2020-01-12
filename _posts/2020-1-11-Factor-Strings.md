@@ -53,6 +53,8 @@ https://drive.google.com/a/maths4eal.net/file/d/1Q6QsznGi9zIdViqrEZ7CO2T6IOZo3U8
 
 * I wonder if I can find any other strings with a product of 480.
 
+---
+
 ## Guided Instruction
 
 > Teacher: answering questions, prompts, cues and direct explanations
@@ -126,14 +128,10 @@ Marian Small)
 
 #### Watch the video
 https://youtu.be/56fa8Jz-FQQ
-![video](https://youtu.be/56fa8Jz-FQQ)
+
 
 #### Consolidation
 Create Frayer Models of the vocabulary.
 
 
-The easiest way to make your second post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
