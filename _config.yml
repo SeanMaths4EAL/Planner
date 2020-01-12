@@ -9,7 +9,7 @@ name: Sean Kelleher
 description: Lesson Planner
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 67B8089C-D3F2-4709-AAA4-4BF07EC257E7.jpeg
+avatar: https://raw.githubusercontent.com/seanmaths4eal/seanmaths4eal/master/images/echidna.jpeg
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: seanmaths4eal/seanmaths4eal
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: seanmaths4eal
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
