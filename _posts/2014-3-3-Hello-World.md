@@ -1,5 +1,4 @@
 ---
-<a id='Factor_Strings'></a>
 # Factor Strings
 (Gradual release of responsibility)
 
