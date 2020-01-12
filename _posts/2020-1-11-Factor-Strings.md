@@ -3,7 +3,6 @@ layout: post
 title: Factor Strings
 ---
 
-# Factor Strings
 (Structure: Gradual release of responsibility)
 
 ## Focused Instruction
