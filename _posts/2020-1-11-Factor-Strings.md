@@ -5,7 +5,7 @@ title: You're up and running!
 ---
 
 # Factor Strings
-(Gradual release of responsibility)
+(Structure: Gradual release of responsibility)
 
 ## Focused Instruction
 
