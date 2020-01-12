@@ -126,6 +126,7 @@ Marian Small)
 
 #### Watch the video
 https://youtu.be/56fa8Jz-FQQ
+![video](https://youtu.be/56fa8Jz-FQQ)
 
 #### Consolidation
 Create Frayer Models of the vocabulary.
