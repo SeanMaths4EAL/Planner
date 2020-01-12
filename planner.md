@@ -4,12 +4,9 @@ title: Planner
 permalink: /planner/
 ---
 
+# Planner
 
-
-### Planner
-
-# Overview
-
+## Overview
 
 | Week | Day | 9A                                  | 89A                                  | 89A ICT | 78B                        |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -54,7 +51,3 @@ permalink: /planner/
 |     | Thu | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | X | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 |     | Fri | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | X | X |
 
-
-### Contact me
-
-[email@sean@maths4eal.net](mailto:sean@maths4eal.net)
