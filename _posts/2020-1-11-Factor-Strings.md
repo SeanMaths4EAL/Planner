@@ -36,9 +36,7 @@ title: Factor Strings
 Display the chart on the screen.
 https://drive.google.com/a/maths4eal.net/file/d/1Q6QsznGi9zIdViqrEZ7CO2T6IOZo3U8M/view?usp=drivesdk
 
-![alt text](Factors.jpeg "Title")
-
-<img src="http://drive.google.com/uc?export=view&id=SHARED_IMAGE_ID">
+![Factors](../images/Factors.jpeg "Factor Strings")
 
 ### Thinking aloud
 * What do I notice about this chart?
@@ -81,6 +79,8 @@ Once all groups have found at least two strings, begin asking students to record
   * How will we know?
 * I wonder how many strings there are?
 
+---
+
 ## Independent Learning
 
 > (Teacher’s role: feedback)
@@ -116,9 +116,9 @@ You multiply a number by another number that is 3 more than your first number.
 Good Questions
 Marian Small)
 
+---
 
-
-### Wrap up
+## Wrap up
 * When we have found the longest string, how do we know?
 * What's true about these factors.
 
@@ -126,12 +126,14 @@ Marian Small)
 
 > Any positive integer can be uniquely expressed as the product of primes.
 
-#### Watch the video
+### Watch the video
 https://youtu.be/56fa8Jz-FQQ
 
+---
 
-#### Consolidation
+## Consolidation
 Create Frayer Models of the vocabulary.
 
+---
 
 
