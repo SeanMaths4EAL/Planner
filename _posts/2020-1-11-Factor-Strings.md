@@ -90,7 +90,7 @@ Students can be extended with the prompts:
 
 ### Parallel tasks
 Option | Task
- :---:  | :--- 
+--- | ---
 Option 1: | You factor a number into primes. There are two different prime factors. What else do you know about the number?
 Option 2: | You factor a number into primes. There are two prime factors, but one is repeated. What else do you know about the number?”
 Option 3: | You find all the factors of a number.  There are an odd number of factors.  What else do you know about the number?
