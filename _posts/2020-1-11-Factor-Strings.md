@@ -89,6 +89,7 @@ Students can be extended with the prompts:
 * What are all the factor pairs for 480? What are all the factors strings that have 3 factors? How do you know you have found them all? What about factor strings that are 4, 5 or 6 numbers long?
 
 ### Parallel tasks
+
 | Option | Task |
 | --- | --- |
 | Option 1: | You factor a number into primes. There are two different prime factors. What else do you know about the number? |
